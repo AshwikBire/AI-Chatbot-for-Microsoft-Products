@@ -6,15 +6,7 @@ pandas
 plotly
 Pillow
 yt-dlp
-speechrecognition
-pyttsx3
-streamlit-autorefresh
-timezonefinder
-geocoder
-pytz
 python-dateutil
 urllib3
 lxml
-pygame
-gtts
-pyaudio
+pytz
